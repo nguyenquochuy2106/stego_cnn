@@ -1,0 +1,10 @@
+# Virtual environments
+.venv/
+
+.env
+
+# Dataset
+data/
+
+# Models
+models/
